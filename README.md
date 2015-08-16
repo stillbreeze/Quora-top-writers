@@ -1,1 +1,1 @@
-# Quora-top-writers
+Scraping connected top writers from Quora.
